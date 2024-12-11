@@ -1,3 +1,3 @@
 const kGitlabFileName = '.gitlab-ci.yml';
 const kApplicationNameKey = 'applicationName';
-const kDevopsConfigVersion = 'v1.2.4';
+const kDevopsConfigVersion = 'v2.0.0';
